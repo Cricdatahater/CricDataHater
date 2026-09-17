@@ -25,7 +25,7 @@ I build reproducible Python experiments that connect mathematical assumptions to
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/) 
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/samridh-goel-ab704524b/)) 
 - [Sports analytics writing](https://sportifystories.wordpress.com/)
 - Email: samridhgoel1803@gmail.com
 
