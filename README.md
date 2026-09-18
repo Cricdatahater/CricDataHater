@@ -1,6 +1,6 @@
 # Hi, I'm Samridh Goel
 
-Statistics graduate and incoming M.Sc. Modelling & Simulation student at Nanyang Technological University, interested in statistical modelling, stochastic simulation, machine learning, computer vision, and quantitative finance.
+Statistics graduate and M.Sc. Modelling & Simulation student at Nanyang Technological University, interested in statistical modelling, stochastic simulation, machine learning, computer vision, and quantitative finance.
 
 I build reproducible Python experiments that connect mathematical assumptions to simulations, diagnostics, and real-world data. My current portfolio focuses on stochastic processes, Monte Carlo methods, regime-switching volatility, and self-exciting event models.
 
