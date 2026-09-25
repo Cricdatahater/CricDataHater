@@ -17,11 +17,6 @@ I build reproducible Python studies that connect mathematical assumptions to exp
 - Experience with Python, R, C++, SQL, PyTorch, scikit-learn, statistical modelling, time series, Monte Carlo simulation, and data analysis
 - Research interests: applied probability, computer vision, statistical learning, stochastic processes, and quantitative modelling
 
-## Currently building
-
-- location-aware and multispectral extensions to computer-vision experiments;
-- stronger experiment tracking, ablation studies, and uncertainty analysis;
-- research-style repositories with fixed protocols, reproducible environments, and documented datasets.
 
 ## Connect
 
